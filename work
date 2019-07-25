@@ -76,16 +76,16 @@
           <h3 style="opacity:0" class="heading-13">9500 Gilman Drive<br>La Jolla, CA 92093</h3>
         </div>
         <div class="column-17 w-col w-col-6">
-          <a data-w-id="872c5007-daa5-ac79-7121-bcd021d7755d" style="opacity:1" href="#" class="link-block-3 w-inline-block">
+          <a data-w-id="872c5007-daa5-ac79-7121-bcd021d7755d" style="opacity:1" href="work" class="link-block-3 w-inline-block">
             <h3 style="opacity:0" class="heading-15">Work</h3>
           </a>
-          <a data-w-id="872c5007-daa5-ac79-7121-bcd021d77560" style="opacity:1" href="#" class="link-block-3 w-inline-block">
+          <a data-w-id="872c5007-daa5-ac79-7121-bcd021d77560" style="opacity:1" href="about" class="link-block-3 w-inline-block">
             <h3 style="opacity:0" class="heading-15">About</h3>
           </a>
-          <a data-w-id="872c5007-daa5-ac79-7121-bcd021d77563" style="opacity:1" href="#" class="link-block-3 w-inline-block">
+          <a data-w-id="872c5007-daa5-ac79-7121-bcd021d77563" style="opacity:1" href="https://www.instagram.com/fi.ucsd/" class="link-block-3 w-inline-block">
             <h3 style="opacity:0" class="heading-15">News</h3>
           </a>
-          <a data-w-id="872c5007-daa5-ac79-7121-bcd021d77566" style="opacity:1" href="#" class="link-block-3 w-inline-block">
+          <a data-w-id="872c5007-daa5-ac79-7121-bcd021d77566" style="opacity:1" href="apply" class="link-block-3 w-inline-block">
             <h3 style="opacity:0" class="heading-15">Apply to the team</h3>
           </a>
         </div>
